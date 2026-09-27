@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="马紫涵-启报停实验0921">
+  <!-- exported by FACTORY I/O version 2.5.0 -->
+  <Tag type="Bool" addr="%I0.0">FIO启动</Tag>
+  <Tag type="Bool" addr="%I0.1">FIO停止</Tag>
+  <Tag type="Bool" addr="%Q0.0">电机</Tag>
+</Tagtable>
